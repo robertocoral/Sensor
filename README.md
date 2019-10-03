@@ -1,6 +1,6 @@
 # Sensor
 
-This Android app records the accelerometer, gyroscope, and magnetometer data and stores them in the Firebase Cloud Storage.
+This Android app records the accelerometer, gyroscope, and magnetometer data and stores them in a Firebase Cloud Storage.
 To make the app work with Firebase, you need to:
 1) sign in on Firebase using your Google account: https://firebase.google.com/
 2) create a new Firebase Project (from the Firebase Console, in your personal page)
