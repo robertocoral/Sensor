@@ -7,6 +7,7 @@ To make the app work with Firebase, you need to:
 3) add Firebase to the app, following the steps 1, 2, 3.a of this tutorial: https://firebase.google.com/docs/android/setup
 4) create a default Storage bucket and set up public access, following the sections "Create a default Storage bucket" 
    and "Set up public access" of this tutorial: https://firebase.google.com/docs/storage/android/start
+   (the root of the Storage bucket has to be a folder called "sensors")
 
 
 
